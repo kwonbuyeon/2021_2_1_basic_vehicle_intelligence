@@ -11,4 +11,4 @@ report2. pre-trained model의 성능 비교
        4.GoogLeNet
 
 
-report3. 차선검출 알고리즘 활용하여 영상 처리ㄱ
+report3. 차선검출 알고리즘 활용하여 영상 처리
